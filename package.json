@@ -1,6 +1,7 @@
 {
   "name": "platzidate",
   "packageManager": "yarn@4.11.0",
+  "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +10,7 @@
     "date",
     "nodejs"
   ],
-  "author": "Oscar Barajas <oscar@platzi.com>",
+  "author": "Cristian Arellano <zaidarellano@protonmail.com>",
   "license": "MIT",
   "description": "Una utilidad para manejar fechas en formato timestamp y long time."
 }
